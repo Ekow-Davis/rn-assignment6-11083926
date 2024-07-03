@@ -2,8 +2,11 @@
 Assignment 6 repository
 
 # Screenshots
+![screenshot](https://github.com/Ekow-Davis/rn-assignment6-11083926/assets/152081404/c37aa069-a404-4bb0-bef1-18b2e2295920)
 
+![screenshot](https://github.com/Ekow-Davis/rn-assignment6-11083926/assets/152081404/95fc4227-c0bb-47b0-a27f-119989fba618)
 
+![screenshot](https://github.com/Ekow-Davis/rn-assignment6-11083926/assets/152081404/06b35d56-9be7-4da0-92ce-e8feec5b8a51)
 
 # Custom Components
 ## Home Screen
